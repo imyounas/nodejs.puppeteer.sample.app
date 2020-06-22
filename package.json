@@ -1,0 +1,19 @@
+{
+  "name": "node.puppeteer.s1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon dist/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "@types/puppeteer": "^3.0.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "puppeteer": "^4.0.0"
+  }
+}
